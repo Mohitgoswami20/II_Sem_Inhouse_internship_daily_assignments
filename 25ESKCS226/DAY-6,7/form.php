@@ -139,3 +139,4 @@ btn.addEventListener("click", function(){
     </script>
 </body>
 </html>
+<!-- Day 6 & 7 Completed -->
