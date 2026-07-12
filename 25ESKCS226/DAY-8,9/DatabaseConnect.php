@@ -9,3 +9,4 @@ if(!$conn){
     die("database connection failed" . mysqli_connect_error());
 
 }
+// Day 8 & 9 Updated
